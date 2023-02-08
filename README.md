@@ -14,9 +14,9 @@ In a totally stream and realtime endpoint based environment, NestPack Hooks is n
 ## Installation
 
 ```bash
-$ npm install @nestpack/hooks
+$ npm install @alexpyslar/hooks
 # OR
-$ yarn add @nestpack/hooks
+$ yarn add @alexpyslar/hooks
 ```
 
 ## Usage
